@@ -26,7 +26,9 @@ h1 {
     
 }
 main {
-  background-color: #9FF5D0;
+  background-image: url(https://image.freepik.com/free-photo/top-view-white-daisy-flowers-petals-yellow-pollen-against-white-backdrop_23-2148076582.jpg
+  );
+  background-color: #BD8FA1;
 display:inline-block;
 margin: 0px;
 }
@@ -45,6 +47,9 @@ section{
 
 }
 footer{
+  background-image: url(https://image.freepik.com/free-vector/floral-card_53876-91231.jpg
+  );
+  background-position: right;
   background-color: #EBD0B2;
   margin: 0px;
   border:100px #EBD0B2 solid;
