@@ -1,7 +1,8 @@
-var Number = prompt('How many rose you will buy ??');
-var greeting;
 
-if ( Number < 100 && Number > 70) {
+var Number = prompt('How many rose you will buy ??');
+var greeting;  
+
+if ( Number > 70) {
 greeting= 'YOU WILL GET 50% DISCOUNT';
 }
 
